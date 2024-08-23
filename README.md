@@ -1,4 +1,8 @@
 # serachable_dropdown
+JSON Data Fetching: Load the local JSON data file from the "assets" folder into your application.
+Dropdown List Creation: Populate a searchable dropdown list with the relevant data from the JSON file.
+User Selection: Allow the user to select an item from the dropdown list.
+Information Display: Based on the user's selection, fetch the corresponding information from the JSON data and display it in the designated text fields.
 
 A new Flutter project.
 
