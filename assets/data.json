@@ -1,0 +1,44 @@
+[
+  {
+    "name": "John Doe",
+    "mobileNumber": "1234567890",
+    "address": "123 Main St, Springfield",
+    "gstNumber": "GST123456"
+  },
+  {
+    "name": "Jane Smith",
+    "mobileNumber": "0987654321",
+    "address": "456 Elm St, Metropolis",
+    "gstNumber": "GST654321"
+  },
+  {
+    "name": "Sakshi Patil",
+    "mobileNumber": "0987654322",
+    "address": "Pune",
+    "gstNumber": "GST654322"
+  },
+  {
+    "name": "Vishwajeet",
+    "mobileNumber": "0987654323",
+    "address": "Mumbai",
+    "gstNumber": "GST654323"
+  },
+  {
+    "name": "Shreeyash",
+    "mobileNumber": "0987654324",
+    "address": "USA",
+    "gstNumber": "GST654324"
+  },
+  {
+    "name": "Geeta",
+    "mobileNumber": "0987654325",
+    "address": "Goa",
+    "gstNumber": "GST654325"
+  },
+  {
+    "name": "Sudhakar",
+    "mobileNumber": "0987654326",
+    "address": "Kolhapur",
+    "gstNumber": "GST654326"
+  }
+]
